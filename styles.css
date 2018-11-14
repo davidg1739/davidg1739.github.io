@@ -37,24 +37,3 @@ body {
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
   }
-  
-.menu {
-    width: w;
-}
-
-.menu a {
-    background-color: #eee;
-    color: black;
-    display: block;
-    padding: 12px;
-    text-decoration: none;
-}
-
-.menu a:hover {
-    background-color: #ccc;
-}
-
-.menu a.active {
-    background-color: #4CAF50;
-    color: white;
-}
